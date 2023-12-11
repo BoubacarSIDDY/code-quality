@@ -1,7 +1,7 @@
 ﻿# code-quality
 Le présent TP a pour dessein l'exploration des outils majeurs tels que Sonar Lint, SonarQube et Sonar Cloud, dans le but d'évaluer la qualité du code de notre projet Java. Pour améliorer la lisibilité du code, et garantir la conformité aux bonnes pratiques de développement. 
 On a créé notre projet qui s’appelle : code-quality
-et nous avons dans le package services un service qui s’appelle : RetraitService qui contient une seule méthode qui makeRetrait, ci-dessous on a fait le check avec SonarLint pour voir s’il trouve un code mal écrit ou une variable déclarée inutilement ou bien d’autres choses.
+et nous avons dans le package services un service qui s’appelle : RetraitService qui contient une seule méthode makeRetrait, ci-dessous on a fait le check avec SonarLint pour voir s’il trouve un code mal écrit ou une variable déclarée inutilement ou bien d’autres choses.
 ![6](https://github.com/BoubacarSIDDY/code-quality/assets/75427522/8607c8bf-ffbe-40f2-9bfb-c111fa73f300)
 
 ci-dessous nous nous connections sur sonarcloud pour importer notre projet dépuis Github
